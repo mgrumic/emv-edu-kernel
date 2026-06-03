@@ -1,0 +1,3 @@
+[submodule "tools/tlv-mgrunix-parser"]
+	path = tools/tlv-mgrunix-parser
+	url = git@github.com:mgrumic/tlv-mgrunix-parser.git
